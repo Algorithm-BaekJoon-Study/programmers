@@ -17,7 +17,7 @@
 # Study Schedule
 |주차|문제1|문제2|지은|지현|수정
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1주차|두수의 합|두수의 차|`진행중`|`진행중`|`진행중`|
+|1주차|[두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|`진행중`|`진행중`|`진행중`|
 
 <br><br>
 # Commit Message 및 PR 규칙
