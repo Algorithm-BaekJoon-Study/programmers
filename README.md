@@ -28,7 +28,7 @@
     - Modifiy [문제번호] [문제제목]
 
 **PR규칙**
-- [문제번호] [문제제목]<br><br>
+- [주차]_[이름]<br><br>
 
 # 파일 및 폴더 구조
 - programmers / 1주차 / jieun / 문제.java
