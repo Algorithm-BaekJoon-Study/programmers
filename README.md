@@ -1,5 +1,6 @@
 # Algorithm-Study
 프로그래머스 알고리즘 문제 풀이 스터디<br><br>
+2024.01.18 ~
 
 # Member
 - 김지현 
@@ -18,8 +19,8 @@
 |주차|문제1|문제2|지은|지현|수정
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차|[두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|`진행완료`|`진행완료`|`진행완료`|
-|2주차|[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|`진행중`|`진행중`|`진행`|
-|3주차|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|[중앙값 구하](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|`진행중`|`진행중`|`진행중`|
+|2주차|[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|`진행중`|`진행중`|`진행중`|
+|3주차|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|`진행중`|`진행중`|`진행중`|
 
 <br><br>
 # Commit Message 및 PR 규칙
