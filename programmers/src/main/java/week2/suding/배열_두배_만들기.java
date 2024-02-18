@@ -1,4 +1,4 @@
-class Solution {
+class 배열_두배_만들기 {
     public int[] solution(int[] numbers) {
         int[] answer = new int[numbers.length];
 
