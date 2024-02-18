@@ -1,4 +1,4 @@
-class Solution {
+class 숫자_비교하기 {
     public int solution(int num1, int num2) {
         int answer = 0;
 
