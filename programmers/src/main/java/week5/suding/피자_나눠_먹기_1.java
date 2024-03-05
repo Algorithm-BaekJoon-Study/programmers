@@ -14,3 +14,4 @@ class 피자_나눠_먹기_1 {
         return answer;
     }
 }
+
