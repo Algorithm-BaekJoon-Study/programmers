@@ -17,5 +17,6 @@ public class 분수의_덧셈 {
         answer[1] = numer/max;
 
         return answer;
+
     }
 }
