@@ -16,5 +16,6 @@ public class 짝수는_싫어요 {
 
 
         return answer;
+
     }
 }
