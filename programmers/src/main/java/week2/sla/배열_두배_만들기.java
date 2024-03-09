@@ -12,6 +12,5 @@ public class 배열_두배_만들기 {
 
         }
         return answer;
-
     }
 }
