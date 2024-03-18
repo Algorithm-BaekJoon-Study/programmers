@@ -25,6 +25,7 @@
 |4주차|[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|[짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|`진행완료`|`진행완료`|`진행완료`|
 |5주차|[피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|[피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|`진행완료`|`진행완료`|`진행완료`|`진행완료`|
 |6주차|[피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|[배열의 평균](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|`진행중`|`진행중`|`진행중`|`진행중`|
+|7주차|[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|`진행중`|`진행중`|`진행중`|`진행중`|
 
 <br><br>
 # Commit Message 및 PR 규칙
