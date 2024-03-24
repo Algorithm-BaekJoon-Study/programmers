@@ -11,6 +11,5 @@ public class 피자_나눠_먹기_3 {
         }
 
         return answer;
-
     }
 }
