@@ -13,4 +13,3 @@ public class 배열의_평균값 {
         return answer;
     }
 }
-값
