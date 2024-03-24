@@ -14,6 +14,5 @@ public class 배열의_평균값 {
         answer = (double)sum/numbers.length;
 
         return answer;
-
     }
 }
