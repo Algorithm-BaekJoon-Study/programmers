@@ -18,5 +18,4 @@ public class 옷가게_할인_받기 {
             return answer;
         }
     }
-
 }
