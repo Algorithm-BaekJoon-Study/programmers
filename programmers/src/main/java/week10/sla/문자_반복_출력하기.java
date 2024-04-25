@@ -9,6 +9,7 @@ public class 문자_반복_출력하기 {
                 answer += my_string.charAt(i);
             }
         }
+
         return answer;
     }
 }
