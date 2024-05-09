@@ -28,7 +28,8 @@
 |7주차|[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
 |8주차|[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)|[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
 |9주차|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|[직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
-|10주차|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|`진행중`|`진행중`|`진행중`|`진행중`|
+|10주차|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
+|11주차|[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|`진행중`|`진행중`|`진행중`|`진행중`|
 
 <br><br>
 # Commit Message 및 PR 규칙
