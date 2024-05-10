@@ -1,0 +1,16 @@
+package week11.suding;
+
+public class 각도기 {
+    class Solution {
+        public int solution(int angle) {
+            int answer = 0;
+            if(0 < angle && angle < 90) { answer = 1; }
+            if(90 == angle) { answer = 2; }
+            if(90 < angle && angle < 180) { answer = 3; }
+            if(angle == 180) { answer = 4; }
+
+            return answer;
+        }
+    }
+
+}
