@@ -30,7 +30,9 @@
 |9주차|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|[직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
 |10주차|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
 |11주차|[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
-|12주차|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)|`진행중`|`진행중`|`진행중`|`진행중`|
+|12주차|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
+|13주차|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
+|14주차|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|`진행중`|`진행중`|`진행중`|`진행중`|
 
 <br><br>
 # Commit Message 및 PR 규칙
