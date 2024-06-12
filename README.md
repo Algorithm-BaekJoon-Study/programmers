@@ -32,7 +32,8 @@
 |11주차|[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
 |12주차|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
 |13주차|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
-|14주차|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|`진행중`|`진행중`|`진행중`|`진행중`|
+|14주차|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|`진행완료`|`진행중`|`진행완료`|`진행완료`|
+|15주차|[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|[모스부호(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)|`진행중`|`진행중`|`진행중`|`진행중`|
 
 <br><br>
 # Commit Message 및 PR 규칙
